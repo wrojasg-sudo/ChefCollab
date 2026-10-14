@@ -11,8 +11,11 @@ Plataforma web colaborativa de recetas culinarias
 | Integrantes |
 
 Wilberth Rojas Gutiérrez 
+
 Maximiliano Badilla Cerdas
+
 Charline Araya Fernández
+
 Jean Franco González Alpízar
 
 ## 3. Descripción del proyecto
